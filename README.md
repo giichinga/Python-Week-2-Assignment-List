@@ -52,8 +52,8 @@ print(myList)
 
 ## How to Run
 
-1.  Save the code to a file, e.g., `list_operations.py`.
-2.  Run it in your terminal: `bash     python list_operations.py`
+1.  Save the code to a file, e.g., `myList.py`.
+2.  Run it in your terminal: `bash     python myList.py`
 
 ## Expected Output
 
